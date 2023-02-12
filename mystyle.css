@@ -1,0 +1,105 @@
+body{
+    margin:0;
+    text-align: center;
+    font-family: 'Laila', sans-serif;
+    
+}
+
+.header{
+    height:343px;
+    width:720px;
+    background-image: url("Hawa.jpg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.header-india{
+    background-color: rgba(255,255,255, 0.8);
+    margin-top: 119px;
+    margin-bottom: 11px;
+    padding: 5px 10px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 3px black;
+
+}
+
+.header-sub{
+    background-color: rgba(255,255,255, 0.8);
+    width:550px;
+    margin-top: 8px;
+    padding: 5px 10px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 3px black;
+}
+
+.middle{
+    width:720px;
+    height:378px;
+    background-color: #84a59d;
+   
+}
+
+.location-img{
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+}
+
+.middle-header{
+    margin-top: 30px;
+    background-color: #84a59d;
+    display: flex;
+    padding: 0 40px;
+    
+}
+
+.middle h2{
+    margin-top: 0;
+    padding-top: 30px;
+}
+
+.location{
+    padding: 0 15px;
+}
+
+.location h5,p{
+    line-height: 17px;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    padding: 15px;
+    width:400px;
+    height: 294px;
+    margin: 0 auto;
+    background-color: #3d5a80;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0px 8px #eae0d5;
+
+}
+
+.myphoto{
+    width:180px;
+    height:250px;
+    border-radius: 15px;
+    box-shadow: 0 0 4px black;;
+}
+
+.footer{
+    width:720px;
+    height: 394px;
+    padding-top: 50px;
+    background-color: #1b263b;
+}
+
+.intro{
+    padding-left: 12px;
+}
+
